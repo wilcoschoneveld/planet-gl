@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/planet-gl/static/css/main.0e693dc5.chunk.css",
+    "main.js": "/planet-gl/static/js/main.31c46bc6.chunk.js",
+    "main.js.map": "/planet-gl/static/js/main.31c46bc6.chunk.js.map",
+    "runtime-main.js": "/planet-gl/static/js/runtime-main.c402e1c3.js",
+    "runtime-main.js.map": "/planet-gl/static/js/runtime-main.c402e1c3.js.map",
+    "static/js/2.77ffa0f5.chunk.js": "/planet-gl/static/js/2.77ffa0f5.chunk.js",
+    "static/js/2.77ffa0f5.chunk.js.map": "/planet-gl/static/js/2.77ffa0f5.chunk.js.map",
+    "index.html": "/planet-gl/index.html",
+    "precache-manifest.079545d8079f92ec4700e4b5df2b701e.js": "/planet-gl/precache-manifest.079545d8079f92ec4700e4b5df2b701e.js",
+    "service-worker.js": "/planet-gl/service-worker.js",
+    "static/css/main.0e693dc5.chunk.css.map": "/planet-gl/static/css/main.0e693dc5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c402e1c3.js",
+    "static/js/2.77ffa0f5.chunk.js",
+    "static/css/main.0e693dc5.chunk.css",
+    "static/js/main.31c46bc6.chunk.js"
+  ]
+}
