@@ -7,12 +7,15 @@ on:
 
 jobs:
   build:
-    
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    - name: install and build
-      run: |
-        yarn install
-        yarn build
+      - uses: actions/checkout@v1
+      - name: install and build
+        run: |
+          yarn install
+          yarn build
+      - uses: "maxheld83/ghpages@v0.2.1"
+        env:
+          BUILD_DIR: build/
+          GH_PAT: ${{ secrets.GH_PAT }}
